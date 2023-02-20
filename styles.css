@@ -1,0 +1,28 @@
+* {
+    background: rgb(112, 169, 234);
+    text-align: center;
+}
+
+h1, p, label {
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+
+button {
+    background-color: red;
+    margin: auto;
+    display: block;
+    float: center;
+    padding: 14px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center
+
+
+}
+
+select {
+    padding: 20px;
+    font-size: 20px;
+}
