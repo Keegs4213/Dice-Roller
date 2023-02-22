@@ -1,5 +1,6 @@
 # Dice-Roller
 Lab 1 Exercise for IOD
+
 This project is a dice-generator using math.random (random number generator)
 
 The user should be able to use different dice, such as a D6 or a D10 (number of faces).
